@@ -1,4 +1,4 @@
-# ecommerce-product-viewer
+# AI-Agent-Project
 Project Summary
 Briefly describe what the project is about, its purpose, and key features. Include details on how it can be useful to the intended audience.
 
